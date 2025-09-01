@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1756669014 source:c:\utn pacheco\programacion\poo\hyp\herencia y polimorfismo\clasedesarrollo.cpp
+	"clasePrueba.h"
+	<cstring>
+	<iostream>
+
+1756668963 c:\utn pacheco\programacion\poo\hyp\herencia y polimorfismo\claseprueba.h
+
+1756669299 source:c:\utn pacheco\programacion\poo\hyp\herencia y polimorfismo\clasepersonaest.cpp
+	"clasePersonaEst.h"
+	<cstring>
+	<iostream>
+
+1756668963 c:\utn pacheco\programacion\poo\hyp\herencia y polimorfismo\clasepersonaest.h
+
+1756671805 source:c:\utn pacheco\programacion\poo\hyp\herencia y polimorfismo\classanimals.cpp
+	"classAnimals.h"
+	<iostream>
+
+1756671813 c:\utn pacheco\programacion\poo\hyp\herencia y polimorfismo\classanimals.h
+
+1756747106 source:c:\utn pacheco\programacion\poo\hyp\herencia y polimorfismo\main.cpp
+	<iostream>
+	"clasePersonaEst.h"
+	"classAnimals.h"
+	"classFigura.h"
+	"classSistEmpl.h"
+	<cstring>
+
+1756732705 c:\utn pacheco\programacion\poo\hyp\herencia y polimorfismo\classfigura.h
+
+1756732721 source:c:\utn pacheco\programacion\poo\hyp\herencia y polimorfismo\classfiguraehijos.cpp
+	"classFigura.h"
+	<iostream>
+
+1756739413 source:c:\utn pacheco\programacion\poo\hyp\herencia y polimorfismo\classsistempleados.cpp
+	"classSistEmpl.h"
+
+1756747435 c:\utn pacheco\programacion\poo\hyp\herencia y polimorfismo\classsistempl.h
+
